@@ -36,16 +36,7 @@ pytest
 Run:
 
 ```bash
-python food_quantities.py
-```
-# File Structure
-
-```
-catering-food-estimator/
-│
-├── food_quantities.py
-├── test_food_quantities.py
-├── README.md
+python test_food_quantities.py
 ```
 Runtime Complexity:
 
